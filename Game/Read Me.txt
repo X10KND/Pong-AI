@@ -1,0 +1,11 @@
+Launch by opening Pong.exe file
+
+Controls:
+Up and Down Arrows keys
+OR
+W and S keys to move the pad
+
+How to exit:
+Press Escape. In case it doesn't work, press Alt + F4.
+
+If you have any queries, feel free to reach us!
